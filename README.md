@@ -1,5 +1,7 @@
 # recovered-python
 
+A recovered Python project containing example scripts and simple learning exercises.
+
 This repository contains recovered Python files and a small Python learning project.
 
 ## Contents
