@@ -1,0 +1,7 @@
+C:\Users\toila\OneDrive\Desktop\recovered-python\helloWorld\calculate.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\helloWorld\hello.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\helloWorld\main.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\helloWorld\test_calculate.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\helloWorld\test_main.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\my_string.py
+C:\Users\toila\OneDrive\Desktop\recovered-python\tips.py
