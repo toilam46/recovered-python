@@ -1,0 +1,14 @@
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/bin/Debug/net10.0/RandomNum
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/bin/Debug/net10.0/RandomNum.deps.json
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/bin/Debug/net10.0/RandomNum.runtimeconfig.json
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/bin/Debug/net10.0/RandomNum.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/bin/Debug/net10.0/RandomNum.pdb
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.AssemblyInfoInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.AssemblyInfo.cs
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.csproj.CoreCompileInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/refint/RandomNum.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.pdb
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/RandomNum.genruntimeconfig.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/RandomNum/obj/Debug/net10.0/ref/RandomNum.dll

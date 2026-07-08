@@ -1,0 +1,14 @@
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/bin/Debug/net10.0/CalHypotenusTriangle
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/bin/Debug/net10.0/CalHypotenusTriangle.deps.json
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/bin/Debug/net10.0/CalHypotenusTriangle.runtimeconfig.json
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/bin/Debug/net10.0/CalHypotenusTriangle.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/bin/Debug/net10.0/CalHypotenusTriangle.pdb
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.AssemblyInfoInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.AssemblyInfo.cs
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.csproj.CoreCompileInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/refint/CalHypotenusTriangle.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.pdb
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/CalHypotenusTriangle.genruntimeconfig.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/CalHypotenusTriangle/obj/Debug/net10.0/ref/CalHypotenusTriangle.dll

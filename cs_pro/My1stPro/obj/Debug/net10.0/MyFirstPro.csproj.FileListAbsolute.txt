@@ -1,0 +1,14 @@
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/bin/Debug/net10.0/MyFirstPro
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/bin/Debug/net10.0/MyFirstPro.deps.json
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/bin/Debug/net10.0/MyFirstPro.runtimeconfig.json
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/bin/Debug/net10.0/MyFirstPro.dll
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/bin/Debug/net10.0/MyFirstPro.pdb
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.GeneratedMSBuildEditorConfig.editorconfig
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.AssemblyInfoInputs.cache
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.AssemblyInfo.cs
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.csproj.CoreCompileInputs.cache
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.dll
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/refint/MyFirstPro.dll
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.pdb
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/MyFirstPro.genruntimeconfig.cache
+/home/toila/py_cc++_c#/cs_pro/MyFirstPro/obj/Debug/net10.0/ref/MyFirstPro.dll

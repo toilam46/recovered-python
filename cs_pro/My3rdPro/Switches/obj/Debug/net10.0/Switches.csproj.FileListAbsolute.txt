@@ -1,0 +1,14 @@
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/bin/Debug/net10.0/Switches
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/bin/Debug/net10.0/Switches.deps.json
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/bin/Debug/net10.0/Switches.runtimeconfig.json
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/bin/Debug/net10.0/Switches.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/bin/Debug/net10.0/Switches.pdb
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.GeneratedMSBuildEditorConfig.editorconfig
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.AssemblyInfoInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.AssemblyInfo.cs
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.csproj.CoreCompileInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/refint/Switches.dll
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.pdb
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/Switches.genruntimeconfig.cache
+/home/toila/py_cc++_c#/cs_pro/My3rdPro/Switches/obj/Debug/net10.0/ref/Switches.dll

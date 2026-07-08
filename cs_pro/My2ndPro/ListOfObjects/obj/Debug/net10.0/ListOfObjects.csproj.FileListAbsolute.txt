@@ -1,0 +1,14 @@
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/bin/Debug/net10.0/ListOfObjects
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/bin/Debug/net10.0/ListOfObjects.deps.json
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/bin/Debug/net10.0/ListOfObjects.runtimeconfig.json
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/bin/Debug/net10.0/ListOfObjects.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/bin/Debug/net10.0/ListOfObjects.pdb
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.AssemblyInfoInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.AssemblyInfo.cs
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.csproj.CoreCompileInputs.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/refint/ListOfObjects.dll
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.pdb
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ListOfObjects.genruntimeconfig.cache
+/home/toila/py_cc++_c#/cs_pro/My2ndPro/ListOfObjects/obj/Debug/net10.0/ref/ListOfObjects.dll
