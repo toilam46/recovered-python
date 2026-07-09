@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalHypotenusTriangle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcb0b432c57d465cfd6b5c9c1d084a0ca37e618f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalHypotenusTriangle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalHypotenusTriangle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
